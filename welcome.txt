@@ -1,6 +1,5 @@
-Hi World ;)
-
-Ciao Mondo!
+Hello World.
+Ciao Mondo.
 Hallo Erde.
 Salut le monde.
 Hallole Weld.
